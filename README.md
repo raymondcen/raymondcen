@@ -26,8 +26,7 @@ CS senior at Oregon State with a data science focus and a statistics minor, grad
   <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" height="40" /></a>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="40" /></a>
 </p>
-
-## Contributions
+<br>
 
 <a href="https://github.com/raymondcen">
   <img src="https://ghchart.rshah.org/raymondcen" alt="Raymond's GitHub contribution calendar" width="100%" />
